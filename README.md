@@ -13,8 +13,10 @@ Below is a demonstration of HealthDecode's dashboard, report uploading, automate
 <p align="center">
   <video src="demo_video.mp4" width="100%" controls></video>
 </p>
-
+[
 *(If the video does not play automatically in your browser, you can access the file directly at [demo_video.mp4](./demo_video.mp4))*
+](https://github.com/svharini2929/HealthDecode/releases/tag/v1.0.0)
+
 
 ---
 
